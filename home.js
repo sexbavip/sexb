@@ -1,19 +1,19 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://api.analysis6m.cc', "_blank");
+            window.open('https://api.de1n6jgc.club', "_blank");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('https://api.animal1p.cc', "_blank");
+            window.open('https://api.xwo5gkpp.world', "_blank");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('https://api.analysis6m.cc', "_blank");
+            window.open('https://api.de1n6jgc.club', "_blank");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('https://api.animal1p.cc', "_blank");
+            window.open('https://api.xwo5gkpp.world', "_blank");
         }
         document.getElementById("btnEnter5").onclick = function() {
-            window.open('https://api.analysis6m.cc', "_blank");
+            window.open('https://api.de1n6jgc.club', "_blank");
         }
     }
     function init() {
